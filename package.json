@@ -1,0 +1,19 @@
+{
+  "name": "smstr4_dz15",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --public-url /goit-js-hw-12-countries/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "@pnotify/core": "^5.2.0",
+    "lodash": "^4.17.21"
+  }
+}
